@@ -1,0 +1,29 @@
+{
+  "name": "koa-saccept",
+  "version": "1.0.0",
+  "description": "Semantic HTTP accept middleware for koajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yorkie/koa-saccept.git"
+  },
+  "keywords": [
+    "http",
+    "koa",
+    "accept",
+    "semantic",
+    "version"
+  ],
+  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/koa-saccept/issues"
+  },
+  "homepage": "https://github.com/yorkie/koa-saccept",
+  "dependencies": {
+    "saccept": "^1.0.0"
+  }
+}
